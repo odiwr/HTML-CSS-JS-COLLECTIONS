@@ -40,11 +40,14 @@ You can reference these files in your own projects like this:
 
 <!-- CSS -->
 <link rel="stylesheet" href="https://odiwr.github.io/HTML-CSS-JS-COLLECTIONS/CSS/owl.carousel.min.css">
+
 <link rel="stylesheet" href="https://odiwr.github.io/HTML-CSS-JS-COLLECTIONS/CSS/plyr.css">
 
 <!-- JS -->
 <script src="https://odiwr.github.io/HTML-CSS-JS-COLLECTIONS/JS/jquery-3.6.0.min.js"></script>
+
 <script src="https://odiwr.github.io/HTML-CSS-JS-COLLECTIONS/JS/owl.carousel.min.js"></script>
+
 <script src="https://odiwr.github.io/HTML-CSS-JS-COLLECTIONS/JS/plyr.polyfilled.js"></script>
 
 ## 📜 License
