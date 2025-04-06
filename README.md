@@ -7,16 +7,16 @@ This collection ensures functionality is preserved even if external CDNs become 
 ## 📁 Structure
 
 HTML-CSS-JS-COLLECTIONS/
-│
-├── CSS/
-│   ├── owl.carousel.min.css
-│   ├── owl.theme.default.min.css
-│   └── plyr.css
-│
-└── JS/
-    ├── jquery-3.6.0.min.js
-    ├── owl.carousel.min.js
-    └── plyr.polyfilled.js
+
+CSS/
+    owl.carousel.min.css
+    owl.theme.default.min.css
+    plyr.css
+
+JS/
+    jquery-3.6.0.min.js
+    owl.carousel.min.js
+    plyr.polyfilled.js
 
 ## 🧩 Libraries Included
 
